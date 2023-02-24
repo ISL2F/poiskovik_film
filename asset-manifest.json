@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/poiskovik_kino/static/css/main.b7cf5c3d.css",
+    "main.js": "/poiskovik_kino/static/js/main.27e19d85.js",
+    "index.html": "/poiskovik_kino/index.html",
+    "main.b7cf5c3d.css.map": "/poiskovik_kino/static/css/main.b7cf5c3d.css.map",
+    "main.27e19d85.js.map": "/poiskovik_kino/static/js/main.27e19d85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7cf5c3d.css",
+    "static/js/main.27e19d85.js"
+  ]
+}
